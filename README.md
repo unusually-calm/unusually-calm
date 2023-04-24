@@ -1,4 +1,4 @@
- <img src = "assets/breathe_1.png" alt="." width="1000" height="200"/>
+ <img src = "assets/breathe_1.png" alt="." width="1000" height="400"/>
 
 <!--
 **unusually-calm/unusually-calm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
